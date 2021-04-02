@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 API para cadastra usuario e fazer o CRUD de tarefas.
 
-Descrição do desafio [GoStack](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8)
+Descrição do desafio [Ignite](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8)
 
 
 Resolulção do teste.
@@ -124,7 +124,7 @@ Retorna:
 ]
 ```
 
-- **`PUT /todos/:id`**: Rota para alterar uma tarefa de um ususario.+
+- **`PUT /todos/:id`**: Rota para alterar uma tarefa de um ususario.
 
 Enviar headers:
 ```
@@ -152,7 +152,7 @@ Retorna:
 }
 ```
 
-- **`PATCH /todos/:id/done`**: Rota para alterar o campo done de uma tarefa de um ususario.+
+- **`PATCH /todos/:id/done`**: Rota para alterar o campo done de uma tarefa de um ususario.
 
 Enviar headers:
 ```
@@ -172,7 +172,7 @@ Retorna:
 }
 ```
 
-- **`DELETE /todos/:id`**: Rota para deletar uma tarefa de um ususario.+
+- **`DELETE /todos/:id`**: Rota para deletar uma tarefa de um ususario.
 
 Enviar headers:
 ```
